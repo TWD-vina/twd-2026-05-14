@@ -48,12 +48,12 @@ Joe Hughes, Klein DeNatale Goldner
 10. **General Manager Updates**
     a. Legal Implications for Recharge Projects
        - GSA Full Detail: https://www.vinagsa.org/legal-implications-of-recharge-in-thevina-subbasin
-       - AGUBC Summary: https://cosmo1007.github.io/vina-recharge-brief/
+       - AGUBC Summary: https://agubc-vina.github.io/vina-recharge-brief/
     b. Well Permit Ordinance Update Process
        - https://www.buttecounty.net/774/Water-Well-Advisory-Group
     c. Interactive Maps:
        - GSA: https://www.vinagsa.org/interactive-groundwater-map
-       - AGUBC: https://cosmo1007.github.io/2022-rms-network/
+       - AGUBC: https://agubc-vina.github.io/2022-rms-network/
 
 11. **Topics for upcoming meetings:**
     a. Vina GSA Plan Evaluation & Amendment Process & Issues
